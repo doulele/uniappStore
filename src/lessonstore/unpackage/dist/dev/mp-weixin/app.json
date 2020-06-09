@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/advisory/advisory",
+    "pages/advisory/details/details",
+    "pages/shopcar/shopcar",
+    "pages/member/member",
+    "pages/index/lessons/lessons",
+    "pages/index/contact/contact",
+    "pages/index/pictures/pictures",
+    "pages/index/videos/videos",
+    "components/goodsDetail/goodsDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "学习商城",
+    "navigationBarBackgroundColor": "#c31e00",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#d3d3d3",
+    "selectedColor": "#c31e00",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/tabicon/home.png",
+        "selectedIconPath": "static/images/tabicon/cart-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/advisory/advisory",
+        "iconPath": "static/images/tabicon/news.png",
+        "selectedIconPath": "static/images/tabicon/news-active.png",
+        "text": "咨询"
+      },
+      {
+        "pagePath": "pages/shopcar/shopcar",
+        "iconPath": "static/images/tabicon/cart.png",
+        "selectedIconPath": "static/images/tabicon/cart-active.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/member/member",
+        "iconPath": "static/images/tabicon/member.png",
+        "selectedIconPath": "static/images/tabicon/member-active.png",
+        "text": "会员"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap3.json"
+}

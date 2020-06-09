@@ -1,0 +1,49 @@
+.active {
+  background-color: #c31e00;
+}
+.active text {
+  color: #fff;
+}
+.comPic {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.picLeftScroll {
+  width: 210rpx;
+  height: 100vh;
+}
+.picLeftScroll .picLeft {
+  width: 200rpx;
+}
+.picLeftScroll .picLeft .picLeftItem {
+  height: 130rpx;
+  line-height: 130rpx;
+  border-bottom: 1px solid #eee;
+  border-right: 1px solid #eee;
+  text-align: center;
+  color: #555;
+}
+.picLeftScroll .picRight {
+  width: 550rpx;
+  text-align: center;
+}
+.picRigPublic {
+  width: 530rpx;
+  margin: 10rpx auto;
+  text-align: center;
+  border-radius: 10rpx;
+}
+.picRigNoMessage {
+  height: 300rpx;
+  background-color: rgba(221,221,221,0.5);
+  line-height: 300rpx;
+  color: #555;
+}
+.picRigTitle {
+  display: block;
+  width: 530rpx;
+  margin: 10rpx auto;
+  margin-bottom: 30rpx;
+}
+

@@ -1,0 +1,1 @@
+<view><advisory-list vue-id="2f22cf20-1" adData="{{adData}}" data-event-opts="{{[['^adClick',[['adClick']]]]}}" bind:adClick="__e" bind:__l="__l"></advisory-list></view>

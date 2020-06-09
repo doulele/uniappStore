@@ -1,0 +1,39 @@
+.advisoryList view.data-v-6e227c32 {
+  box-sizing: border-box;
+}
+.advisoryList .advisoryListItem.data-v-6e227c32 {
+  width: 750rpx;
+  height: 174rpx;
+  border-bottom: 2px solid #c31e00;
+  padding: 10rpx 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.advisoryList .advisoryListItem .adImg.data-v-6e227c32 {
+  width: 190rpx;
+  height: 150rpx;
+}
+.advisoryList .advisoryListItem .adRig.data-v-6e227c32 {
+  margin: 0 20rpx;
+  overflow: hidden;
+  position: relative;
+}
+.advisoryList .advisoryListItem .adRig .adRigTitle.data-v-6e227c32 {
+  line-height: 10rpx;
+}
+.advisoryList .advisoryListItem .adRig .adRigBot.data-v-6e227c32 {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+.advisoryList .advisoryListItem .adRig .adRigBot text.data-v-6e227c32 {
+  font-size: 25rpx;
+}
+.advisoryList .advisoryListItem .adRig .adRigBot .adrbLeft.data-v-6e227c32 {
+  float: left;
+}
+.advisoryList .advisoryListItem .adRig .adRigBot .adrbRight.data-v-6e227c32 {
+  float: right;
+}
+

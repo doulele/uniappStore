@@ -1,0 +1,27 @@
+.adDetal.data-v-7888cde6 {
+  padding: 30rpx 20rpx;
+  font-size: 30rpx;
+}
+.adDetal .adDetaTitle.data-v-7888cde6 {
+  text-align: center;
+  font-size: 45rpx;
+  font-weight: 550;
+  margin: 20rpx 0;
+}
+.adDetal .timeAndViews.data-v-7888cde6 {
+  padding: 20rpx 20rpx 90rpx 0rpx;
+}
+.adDetal .timeAndViews text.data-v-7888cde6 {
+  font-size: 25rpx;
+}
+.adDetal .timeAndViews .adDetaTime.data-v-7888cde6 {
+  float: left;
+}
+.adDetal .timeAndViews .adDetaView.data-v-7888cde6 {
+  float: right;
+}
+.adDetaContent.data-v-7888cde6 {
+  margin-top: 40rpx;
+  background-color: #007aff;
+}
+

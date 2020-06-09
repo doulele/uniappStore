@@ -1,0 +1,20 @@
+.aboutUs.data-v-7fb2943d,
+.contactPhone.data-v-7fb2943d,
+.contactLocation.data-v-7fb2943d {
+  display: block;
+  width: 750rpx;
+  line-height: 80rpx;
+}
+.aboutUs.data-v-7fb2943d {
+  width: 750rpx;
+  height: 320rpx;
+  margin-bottom: 20rpx;
+}
+.contactPhone.data-v-7fb2943d {
+  border-bottom: 1px solid #eee;
+}
+.myMap.data-v-7fb2943d {
+  width: 750rpx;
+  height: 750rpx;
+}
+
